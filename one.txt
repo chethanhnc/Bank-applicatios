@@ -2,3 +2,4 @@ hi hello bangalore
 I'm going to home today
 I'm staying in marathalli
 checking diffmerge tool
+changing the file in remot to check the diffmerge tool
