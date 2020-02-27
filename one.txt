@@ -4,3 +4,4 @@ I'm staying in marathalli
 checking diffmerge tool
 changing the file in remot to check the diffmerge tool
 ediring the file in local
+checkin the conflict error
